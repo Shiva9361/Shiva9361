@@ -1,7 +1,7 @@
 <h3>I'm Shivadharshan S</h3>
 <h5>Currently a pre-final year student in Indian Institute of Technology Tirupati </h3>
 <h5>I am passionate about anything and everything that involves critical and creative thinking </h5>
-- 📫 reach me at **shivadharshansankar936@gmail.com**
+- 📫 reach me at shivadharshansankar936@gmail.com
 
 ___
 
