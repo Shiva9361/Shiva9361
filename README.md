@@ -10,6 +10,7 @@ Here are some of my **Top Projects** which are public:
   - Uses c++ for efficient simulation
   - Uses pybind-11 to use C++ classes in python
   - Uses Vue.js as frontend
+  - Has a DOCKERFILE for easy install
 - Ruby Interpreter @ <a href="https://github.com/Shiva9361/Ruby_Interpreter">Ruby Interpreter</a>
   - Fully written in Java
   - Uses a Recursive Decent Parser
