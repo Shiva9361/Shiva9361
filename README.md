@@ -6,15 +6,15 @@
 ___
 
 Here are some of my **Top Projects** which are public:
-- Waku-Waku RISC-V Simulator @ <a href="https://github.com/Shiva9361/Waku-Waku"> Waku Waku</a>
+- **Waku-Waku RISC-V Simulator @ <a href="https://github.com/Shiva9361/Waku-Waku"> Waku Waku</a>**
   - Uses c++ for efficient simulation
   - Uses pybind-11 to use C++ classes in python
   - Uses Vue.js as frontend
   - Has a DOCKERFILE for easy install
-- Ruby Interpreter @ <a href="https://github.com/Shiva9361/Ruby_Interpreter">Ruby Interpreter</a>
+- **Ruby Interpreter @ <a href="https://github.com/Shiva9361/Ruby_Interpreter">Ruby Interpreter</a>**
   - Fully written in Java
   - Uses a Recursive Decent Parser
-- A Single Cycle RISC-V Processor @ <a href="https://github.com/Shiva9361/Simple_Processor"> Simple Processor </a>
+- **A Single Cycle RISC-V Processor @ <a href="https://github.com/Shiva9361/Simple_Processor"> Simple Processor </a>**
   - Fully written in Verilog
   - 12 opcodes are fully functional
 
