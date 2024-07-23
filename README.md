@@ -11,12 +11,19 @@ Here are some of my **Top Projects** which are public:
   - Uses pybind-11 to use C++ classes in python
   - Uses Vue.js as frontend
   - Has a DOCKERFILE for easy install
+
 - **Ruby Interpreter @ <a href="https://github.com/Shiva9361/Ruby_Interpreter">Ruby Interpreter</a>**
   - Fully written in Java
   - Uses a Recursive Decent Parser
+
 - **A Single Cycle RISC-V Processor @ <a href="https://github.com/Shiva9361/Simple_Processor"> Simple Processor </a>**
   - Fully written in Verilog
   - 12 opcodes are fully functional
+
+- **Mystery Maze @ <a href="https://github.com/Shiva9361/Mystery-Maze">Mystery Maze</a>**
+  - A maze game written in Java with libGDX
+  - Uses a recursive division algorithm
+  - Was a winning submission in Game-A-thon by GMOKS
 
 
 <h3 align="left">Languages and Tools that I am familiar with:</h3>
