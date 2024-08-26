@@ -6,6 +6,12 @@
 ___
 
 Here are some of my **Top Projects** which are public:
+- **NaviDishaVyaapar @ <a href="https://github.com/Shiva9361/NaviDishaVyapar"> NaviDishaVyapar</a>**
+  - Uses firebase for backend
+  - Uses kotlin frontend
+  - UI design in Figma
+  - Bundled with APK for install
+     
 - **Waku-Waku RISC-V Simulator @ <a href="https://github.com/Shiva9361/Waku-Waku"> Waku Waku</a>**
   - Uses c++ for efficient simulation
   - Uses pybind-11 to use C++ classes in python
