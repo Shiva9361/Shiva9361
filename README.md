@@ -6,7 +6,7 @@
 ___
 
 Here are some of my **Top Projects** which are public:
-- **NaviDishaVyaapar @ <a href="https://github.com/Shiva9361/NaviDishaVyapar"> NaviDishaVyapar</a>**
+- **NaviDishaVyapar @ <a href="https://github.com/Shiva9361/NaviDishaVyapar"> NaviDishaVyapar</a>**
   - Uses firebase for backend
   - Uses kotlin frontend
   - UI design in Figma
