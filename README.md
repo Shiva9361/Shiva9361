@@ -11,7 +11,10 @@ Here are some of my **Top Projects** which are public:
   - Uses kotlin frontend
   - UI design in Figma
   - Bundled with APK for install
-     
+- **Libra @ <a href="https://github.com/Shiva9361/Libra-main"> Libra</a>**
+  - Uses flask for backend
+  - Uses Vue.js for frontend
+  - Supports all basic functionalities of a online library
 - **Waku-Waku RISC-V Simulator @ <a href="https://github.com/Shiva9361/Waku-Waku"> Waku Waku</a>**
   - Uses c++ for efficient simulation
   - Uses pybind-11 to use C++ classes in python
